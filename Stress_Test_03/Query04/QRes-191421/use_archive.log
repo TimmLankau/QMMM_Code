@@ -1,0 +1,37 @@
+Archive csv file found, continue
+file                 : 492027
+bad_transition_metal : 346689
+mg_metal             :  66142
+radio_active         :   7415
+not_fe1              :  16228
+rare_earth           :  20608
+smiles_dot           :  14795
+not_mn1              :   4345
+fe_and_mn            :    421
+survivors            :  15384
+
+Continue with the CCSD data base
+Base directory  : /tmp/tlankau
+Res directory   : /tmp/tlankau/Results
+Directory for results does NOT exist -> Create
+Sort list entries
+Pick random entries until I have 10 hits
+    0 Fe ZORHIA         77 6
+    1 Fe KOCZUY        102 6
+    2 Fe AYUCII         77 6
+    3 Fe LUWPAU         79 6
+    4 Mn TOSRUQ         75 6
+    5 Fe QOSZON49       81 6
+    6 Fe QOSZON50       81 6
+    7 Mn ZOYSIS         77 6
+    8 Fe MIWPIU         77 6
+    9 Fe QOSZON51       81 6
+list_len             :  15384
+hits                 :     10
+trials               :     85
+too_small            :     47
+coord                :      9
+disorder             :     14
+good_Fe              :      8
+3d_struc             :      5
+good_Mn              :      2
